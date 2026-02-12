@@ -1,5 +1,8 @@
 #include <iostream>
 
+// Compile: g++ -g -Wall -Werror -Wextra e.cpp -o e
+
+
 
 // e^x taylor series: 1 + x + x^2/2! + x^3/3! + ... + x^n / n!
 
